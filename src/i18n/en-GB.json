@@ -1,0 +1,15 @@
+{
+    "system.language": "English",
+
+    "button.cancel": "Cancel",
+    "button.ok": "Ok",
+    "button.next": "Next",
+
+    "greeting": "Hello {name}! How are you?",
+
+    "widget.intl.greeting": "Language i18n widget",
+    "widget.intl.language": "Language",
+    "widget.intl.locale": "Current locale",
+    "widget.intl.timezone": "Timezone",
+    "widget.intl.defaultLocale": "Locale by default"
+}

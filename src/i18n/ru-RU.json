@@ -1,0 +1,15 @@
+{
+    "system.language": "Русский",
+
+    "button.cancel": "Отмена",
+    "button.ok": "Хорошо",
+    "button.next": "След.",
+
+    "greeting": "Привет {name}! Как дела?",
+
+    "widget.intl.greeting": "Language i18n widget",
+    "widget.intl.language": "Язык",
+    "widget.intl.locale": "Выбранная локале",
+    "widget.intl.timezone": "Временная зона",
+    "widget.intl.defaultLocale": "Локале по умолчанию"
+}
